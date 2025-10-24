@@ -6,4 +6,8 @@ function addFive(num){
 }
 //
 var addFive1=addFive(n1);
-var addFive1=addFive(n2);
+var addFive2=addFive(n2);
+console.log(addFive1);
+console.log(addFive2);
+//console.log(addFive2);
+
